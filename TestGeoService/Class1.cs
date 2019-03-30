@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GeoIPService
+namespace TestGeoService
 {
     public class Class1
     {
